@@ -1,0 +1,52 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.box1{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.box2{
+  margin-left: 100px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.box3{
+  margin-left: 200px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+.box4{
+  margin-left: 300px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.box5{
+  margin-left: 400px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.box6{
+  margin-left: 500px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.box7{
+  margin-left: 600px;
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
